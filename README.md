@@ -1,4 +1,4 @@
-
+ 
 # Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
 ### DATE: 30/04/2025
 ## AIM:
@@ -47,7 +47,7 @@
 ## Output:
 ![image](https://github.com/user-attachments/assets/020f048f-5cf3-4034-b6b3-07344f7ec701)
 
-### Name :212223230034
+### Name :CHANDRU SM
 ### Register Number:212223230034
 
 ## Result: 
